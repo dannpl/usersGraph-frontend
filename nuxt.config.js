@@ -29,7 +29,7 @@ export default {
   /*
    ** Nuxt.js dev-modules
    */
-  devModules: ["@nuxtjs/vuetify"],
+  buildModules: ["@nuxtjs/vuetify"],
   /*
    ** Nuxt.js modules
    */
